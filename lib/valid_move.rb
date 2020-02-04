@@ -13,8 +13,7 @@ def valid_move?(board,index)
   elsif board[5] == " "
     puts "board 5"
      true
-  
-end
+     end
 end
 
 
